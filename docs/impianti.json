@@ -1,0 +1,385 @@
+{
+  "versione_schema": 1,
+  "aggiornato": "2026-10-16T15:58:18+00:00",
+  "fonte": "https://www.abetone-cutigliano.it/impianti-skipass/",
+  "elementi": [
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "6. Chierroni"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "7. Selletta"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "8. Giulio Ferrari"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "9. Campo scuola Abetone"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "11. Riva"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "12. Stucchi"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "12a. Pista del Lago"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "13. Monte Gomito 1"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "14. Monte Gomito 2"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "15. Zeno 1"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "16. Zeno 2"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "17. Variante Zeno 3 / Zeno 2"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "18. Zeno 3"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "18b. Campo scuola Ovovia"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "19. Stadio da Slalom"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "20. Raccordo Pulicchio / Zeno3"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "21. Seghi (Zona Pulicchio)"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "23. Coppi 1"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "24. Coppi 2"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "25. Raccordo Zeno3 / Pulicchio"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "26. Farinati"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "28. Passo d'Annibale"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "29. Tre Potenze"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "32. Celina Seghi"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "33. Abetina"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "34. Jolly"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "35. Sprella"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "5. Seggiovia quadriposto Regine - Selletta"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "9. Tapis Roulant Campo scuola Abetone"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "10. Seggiovia biposto Abetone - Selletta"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "11. Seggiovia campo scuola Abetone"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "12. Seggiovia triposto Campo Tennis"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "13. Tapis Roulant Ovovia"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "14. Seggiovia biposto Villa Imperatori - Selletta"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "16. Sciovia Monte Gomito"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "18. Telecabina 8 posti Casa cantoniera - M.Gomito"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "19. Sciovia Zeno 3"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "20. Seggiovia quadriposto Cà del Cucco - Pulicchio"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "22. Seggiovia Quadriposto Tre potenze"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "23. Seggiovia Quadriposto Val di Luce - M.Gomito"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "24. Seggiovia Triposto Passo d'Annibale"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "26. Seggiovia Quadriposto Passo della Sprella"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "27. Sciovia Jolly"
+    },
+    {
+      "area": "Multipass",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "28. Sciovia Abetina"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Campo scuola"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Pista 1"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Pista 2"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Pista 3"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Pista4"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Chierroni"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Faggio di Maria"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Direttissima"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Angela"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Raccordino"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste",
+      "stato": "Chiuso",
+      "nome": "Panoramica"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste fondo",
+      "stato": "Chiuso",
+      "nome": "Anello Lazzi – Doganaccia"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Piste fondo",
+      "stato": "Chiuso",
+      "nome": "Anello Croce – Arcana"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Impianti",
+      "stato": "Aperto",
+      "nome": "Cutigliano – Doganaccia* (*sab e dom 8-12:50 e 14-17)"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "Doganaccia – Croce Arcana"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "Campo scuola"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "Faggio di Maria"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "Tapis Roulant 1"
+    },
+    {
+      "area": "La Doganaccia",
+      "tipo": "Impianti",
+      "stato": "Chiuso",
+      "nome": "Tapis Roulant 2"
+    }
+  ]
+}
