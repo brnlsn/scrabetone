@@ -11,4 +11,5 @@ output/
 
 # Cache e file temporanei
 osm_cache.json
-abetone.qgz
+abetone.qgz*.pbf
+osm_cache.json
