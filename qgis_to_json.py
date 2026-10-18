@@ -235,20 +235,35 @@ for fp in sorted(glob.glob("*.geojson")):
         if source_of.setdefault(cid, fname) != fname:
             continue
 
-        segments[cid].extend(lines)
+        # difficoltà OSM (solo piste): novice / easy / intermediate / advanced
+        diff = str(props.get("piste:difficulty")).lower() if tipo == "pista" and props.get("piste:difficulty") else None
+        segments[cid].extend((ln, diff) for ln in lines)
 
 # ----------------------------------------------------------------------------
 # OUTPUT: docs/coords.json
 # ----------------------------------------------------------------------------
 coords = {}
-for cid, segs in segments.items():
-    chains = chain_segments(segs)
+for cid, items in segments.items():
+    # I tratti si uniscono solo se hanno la stessa difficoltà: così una pista
+    # che cambia livello lungo il percorso (es. Celina Seghi) resta colorata
+    # correttamente tratto per tratto.
+    per_diff = defaultdict(list)
+    for ln, diff in items:
+        per_diff[diff].append(ln)
+
+    chains, diffs = [], []
+    for diff in sorted(per_diff, key=lambda d: (d is None, d or "")):
+        for ch in chain_segments(per_diff[diff]):
+            chains.append(ch)
+            diffs.append(diff)
+
     flat = [p for ch in chains for p in ch]
     coords[cid] = {
         "lat": sum(p[0] for p in flat) / len(flat),   # centro, per i marker
         "lon": sum(p[1] for p in flat) / len(flat),
-        "geometry": flat,      # lista piatta: compatibile con l'app attuale
-        "segments": chains,    # polilinee separate: da usare per disegnare senza salti
+        "geometry": flat,        # lista piatta: compatibile con l'app vecchia
+        "segments": chains,      # polilinee separate, una per tratto
+        "difficulties": diffs,   # difficoltà di ogni tratto (None per gli impianti)
     }
 
 os.makedirs("docs", exist_ok=True)
