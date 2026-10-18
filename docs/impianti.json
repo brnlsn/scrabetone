@@ -1,385 +1,448 @@
 {
-  "versione_schema": 1,
-  "aggiornato": "2026-10-18T12:55:46+00:00",
+  "versione_schema": 2,
+  "aggiornato": "2026-10-18T20:27:51+00:00",
   "fonte": "https://www.abetone-cutigliano.it/impianti-skipass/",
   "elementi": [
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "6. Chierroni"
+      "nome": "6. Chierroni",
+      "id": "mp_pista_06"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "7. Selletta"
+      "nome": "7. Selletta",
+      "id": "mp_pista_07"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "8. Giulio Ferrari"
+      "nome": "8. Giulio Ferrari",
+      "id": "mp_pista_08"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "9. Campo scuola Abetone"
+      "nome": "9. Campo scuola Abetone",
+      "id": "mp_pista_09"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "11. Riva"
+      "nome": "11. Riva",
+      "id": "mp_pista_11"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "12. Stucchi"
+      "nome": "12. Stucchi",
+      "id": "mp_pista_12"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "12a. Pista del Lago"
+      "nome": "12a. Pista del Lago",
+      "id": "mp_pista_12a"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "13. Monte Gomito 1"
+      "nome": "13. Monte Gomito 1",
+      "id": "mp_pista_13"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "14. Monte Gomito 2"
+      "nome": "14. Monte Gomito 2",
+      "id": "mp_pista_14"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "15. Zeno 1"
+      "nome": "15. Zeno 1",
+      "id": "mp_pista_15"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "16. Zeno 2"
+      "nome": "16. Zeno 2",
+      "id": "mp_pista_16"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "17. Variante Zeno 3 / Zeno 2"
+      "nome": "17. Variante Zeno 3 / Zeno 2",
+      "id": "mp_pista_17"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "18. Zeno 3"
+      "nome": "18. Zeno 3",
+      "id": "mp_pista_18"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "18b. Campo scuola Ovovia"
+      "nome": "18b. Campo scuola Ovovia",
+      "id": "mp_pista_18b"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "19. Stadio da Slalom"
+      "nome": "19. Stadio da Slalom",
+      "id": "mp_pista_19"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "20. Raccordo Pulicchio / Zeno3"
+      "nome": "20. Raccordo Pulicchio / Zeno3",
+      "id": "mp_pista_20"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "21. Seghi (Zona Pulicchio)"
+      "nome": "21. Seghi (Zona Pulicchio)",
+      "id": "mp_pista_21"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "23. Coppi 1"
+      "nome": "23. Coppi 1",
+      "id": "mp_pista_23"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "24. Coppi 2"
+      "nome": "24. Coppi 2",
+      "id": "mp_pista_24"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "25. Raccordo Zeno3 / Pulicchio"
+      "nome": "25. Raccordo Zeno3 / Pulicchio",
+      "id": "mp_pista_25"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "26. Farinati"
+      "nome": "26. Farinati",
+      "id": "mp_pista_26"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "28. Passo d'Annibale"
+      "nome": "28. Passo d'Annibale",
+      "id": "mp_pista_28"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "29. Tre Potenze"
+      "nome": "29. Tre Potenze",
+      "id": "mp_pista_29"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "32. Celina Seghi"
+      "nome": "32. Celina Seghi",
+      "id": "mp_pista_32"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "33. Abetina"
+      "nome": "33. Abetina",
+      "id": "mp_pista_33"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "34. Jolly"
+      "nome": "34. Jolly",
+      "id": "mp_pista_34"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "35. Sprella"
+      "nome": "35. Sprella",
+      "id": "mp_pista_35"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "5. Seggiovia quadriposto Regine - Selletta"
+      "nome": "5. Seggiovia quadriposto Regine - Selletta",
+      "id": "mp_imp_05"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "9. Tapis Roulant Campo scuola Abetone"
+      "nome": "9. Tapis Roulant Campo scuola Abetone",
+      "id": "mp_imp_09"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "10. Seggiovia biposto Abetone - Selletta"
+      "nome": "10. Seggiovia biposto Abetone - Selletta",
+      "id": "mp_imp_10"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "11. Seggiovia campo scuola Abetone"
+      "nome": "11. Seggiovia campo scuola Abetone",
+      "id": "mp_imp_11"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "12. Seggiovia triposto Campo Tennis"
+      "nome": "12. Seggiovia triposto Campo Tennis",
+      "id": "mp_imp_12"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "13. Tapis Roulant Ovovia"
+      "nome": "13. Tapis Roulant Ovovia",
+      "id": "mp_imp_13"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "14. Seggiovia biposto Villa Imperatori - Selletta"
+      "nome": "14. Seggiovia biposto Villa Imperatori - Selletta",
+      "id": "mp_imp_14"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "16. Sciovia Monte Gomito"
+      "nome": "16. Sciovia Monte Gomito",
+      "id": "mp_imp_16"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "18. Telecabina 8 posti Casa cantoniera - M.Gomito"
+      "nome": "18. Telecabina 8 posti Casa cantoniera - M.Gomito",
+      "id": "mp_imp_18"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "19. Sciovia Zeno 3"
+      "nome": "19. Sciovia Zeno 3",
+      "id": "mp_imp_19"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "20. Seggiovia quadriposto Cà del Cucco - Pulicchio"
+      "nome": "20. Seggiovia quadriposto Cà del Cucco - Pulicchio",
+      "id": "mp_imp_20"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "22. Seggiovia Quadriposto Tre potenze"
+      "nome": "22. Seggiovia Quadriposto Tre potenze",
+      "id": "mp_imp_22"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "23. Seggiovia Quadriposto Val di Luce - M.Gomito"
+      "nome": "23. Seggiovia Quadriposto Val di Luce - M.Gomito",
+      "id": "mp_imp_23"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "24. Seggiovia Triposto Passo d'Annibale"
+      "nome": "24. Seggiovia Triposto Passo d'Annibale",
+      "id": "mp_imp_24"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "26. Seggiovia Quadriposto Passo della Sprella"
+      "nome": "26. Seggiovia Quadriposto Passo della Sprella",
+      "id": "mp_imp_26"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "27. Sciovia Jolly"
+      "nome": "27. Sciovia Jolly",
+      "id": "mp_imp_27"
     },
     {
-      "area": "Multipass",
+      "area": "Abetone",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "28. Sciovia Abetina"
+      "nome": "28. Sciovia Abetina",
+      "id": "mp_imp_28"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Campo scuola"
+      "nome": "Campo scuola",
+      "id": "dg_imp_03"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Pista 1"
+      "nome": "Pista 1",
+      "id": "dg_pista_02"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Pista 2"
+      "nome": "Pista 2",
+      "id": "dg_pista_03"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Pista 3"
+      "nome": "Pista 3",
+      "id": "dg_pista_04"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Pista4"
+      "nome": "Pista4",
+      "id": "dg_pista_05"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Chierroni"
+      "nome": "Chierroni",
+      "id": "dg_pista_06"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Faggio di Maria"
+      "nome": "Faggio di Maria",
+      "id": "dg_imp_04"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Direttissima"
+      "nome": "Direttissima",
+      "id": "dg_pista_08"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Angela"
+      "nome": "Angela",
+      "id": "dg_pista_09"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Raccordino"
+      "nome": "Raccordino",
+      "id": "dg_pista_10"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste",
       "stato": "Chiuso",
-      "nome": "Panoramica"
+      "nome": "Panoramica",
+      "id": "dg_pista_11"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste fondo",
       "stato": "Chiuso",
-      "nome": "Anello Lazzi – Doganaccia"
+      "nome": "Anello Lazzi – Doganaccia",
+      "id": "dg_fondo_01"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Piste fondo",
       "stato": "Chiuso",
-      "nome": "Anello Croce – Arcana"
+      "nome": "Anello Croce – Arcana",
+      "id": "dg_fondo_02"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Impianti",
       "stato": "Aperto",
-      "nome": "Cutigliano – Doganaccia* (*sab e dom 8-12:50 e 14-17)"
+      "nome": "Cutigliano – Doganaccia* (*sab e dom 8-12:50 e 14-17)",
+      "id": "dg_imp_01"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "Doganaccia – Croce Arcana"
+      "nome": "Doganaccia – Croce Arcana",
+      "id": "dg_imp_02"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "Campo scuola"
+      "nome": "Campo scuola",
+      "id": "dg_imp_03"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "Faggio di Maria"
+      "nome": "Faggio di Maria",
+      "id": "dg_imp_04"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "Tapis Roulant 1"
+      "nome": "Tapis Roulant 1",
+      "id": "dg_imp_05"
     },
     {
       "area": "La Doganaccia",
       "tipo": "Impianti",
       "stato": "Chiuso",
-      "nome": "Tapis Roulant 2"
+      "nome": "Tapis Roulant 2",
+      "id": "dg_imp_06"
     }
   ]
 }
