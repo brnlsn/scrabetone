@@ -5,3 +5,10 @@ __pycache__/
 data/
 output/
 .vscode/
+# File pesanti OpenStreetMap
+*.pbf
+*.osm.pbf
+
+# Cache e file temporanei
+osm_cache.json
+abetone.qgz
