@@ -1,24 +1,20 @@
-# scrabetone
+# Scrabetone
 
-Stato piste e impianti di Abetone Cutigliano in formato JSON, aggiornato automaticamente ogni giorno.
+Controlla lo stato di piste e impianti di Abetone Cutigliano direttamente sulla mappa.
+
+**Apri l'app:** <https://brnlsn.github.io/scrabetone/>
+
+La mappa distingue piste, anelli per lo sci di fondo e impianti, mostrando il loro stato di apertura. Puoi cercare un elemento, filtrare l'elenco e selezionare un tracciato per individuarlo sulla mappa. Gli elementi senza geometria restano consultabili nell'elenco.
 
 ## Dati
 
-- Fonte: https://www.abetone-cutigliano.it/impianti-skipass/
-- Output pubblico: https://TUONOME.github.io/scrabetone/impianti.json
-- Aggiornamento: GitHub Actions, ogni giorno alle 09:00 UTC
+Gli stati sono aggiornati ogni giorno dalla [fonte ufficiale](https://www.abetone-cutigliano.it/impianti-skipass/). I dati sono disponibili anche in formato JSON:
 
-## Struttura JSON
+- [Stato di piste e impianti](https://brnlsn.github.io/scrabetone/impianti.json)
+- [Geometrie visualizzate sulla mappa](https://brnlsn.github.io/scrabetone/coords.json)
 
-    {
-      "versione_schema": 1,
-      "aggiornato": "2026-10-16T15:57:43+00:00",
-      "fonte": "https://www.abetone-cutigliano.it/impianti-skipass/",
-      "elementi": [
-        { "area": "Multipass", "tipo": "Piste", "stato": "Chiuso", "nome": "6. Chierroni" }
-      ]
-    }
+La mappa richiede una connessione Internet. La cartografia di sfondo è fornita da [OpenFreeMap](https://openfreemap.org/) con dati e attribuzione [OpenStreetMap](https://www.openstreetmap.org/copyright); il rilievo utilizza [Esri World Hillshade](https://goto.arcgisonline.com/maps/Elevation/World_Hillshade). I crediti sono visibili sulla mappa.
 
 ## Licenza
 
-Vedi LICENSE.
+Vedi [LICENSE](LICENSE).

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f4f6f2">
+    <meta name="description" content="Mappa aggiornata di piste e impianti di Abetone Cutigliano.">
+    <title>Scrabetone — piste e impianti</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.css">
+    <link rel="stylesheet" href="./styles.css">
+    <script defer src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
+    <script defer src="./map.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Scrabetone, pagina iniziale">
+        <span class="brand-mark" aria-hidden="true">S</span>
+        <span>scrabetone</span>
+      </a>
+      <div class="topbar-note">Abetone · Cutigliano</div>
+    </header>
+
+    <main class="app-shell">
+      <section class="intro" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">La montagna, ogni giorno</p>
+          <h1 id="page-title">Piste &amp; impianti</h1>
+          <p class="intro-copy">Controlla cosa è aperto e scegli la tua prossima discesa.</p>
+        </div>
+        <div class="updated">
+          <span class="live-dot" aria-hidden="true"></span>
+          <span id="updated-at">Caricamento aggiornamento…</span>
+          <button class="refresh-button" id="refresh-button" type="button" aria-label="Aggiorna dati" title="Aggiorna dati">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5m10-1a7 7 0 0 0-12.1-4.8L4 8m16 8-2.9 2.8A7 7 0 0 1 5 13"/></svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="dashboard" aria-label="Mappa e stato delle piste">
+        <section class="map-panel" aria-label="Mappa di piste e impianti">
+          <div id="map" role="application" aria-label="Mappa interattiva di Abetone Cutigliano"></div>
+          <div class="map-legend" aria-label="Legenda">
+            <div class="legend-head"><span>Tipo</span><span>Aperto</span><span>Chiuso</span></div>
+            <div class="legend-row">
+              <span>Piste</span>
+              <i class="legend-line legend-piste-open"></i>
+              <i class="legend-line legend-piste-closed"></i>
+            </div>
+            <div class="legend-row">
+              <span>Fondo</span>
+              <i class="legend-line legend-fondo-open"></i>
+              <i class="legend-line legend-fondo-closed"></i>
+            </div>
+            <div class="legend-row">
+              <span>Impianti</span>
+              <i class="legend-line legend-impianti-open"></i>
+              <i class="legend-line legend-impianti-closed"></i>
+            </div>
+          </div>
+        </section>
+
+        <aside class="sidebar" aria-label="Elenco e filtri">
+          <div class="summary">
+            <div class="summary-heading">
+              <div>
+                <p class="eyebrow">Situazione di oggi</p>
+                <h2>La stazione</h2>
+              </div>
+              <span class="mountain-icon" aria-hidden="true">⌁</span>
+            </div>
+            <div class="stats">
+              <div class="stat stat-open">
+                <span class="stat-value" id="open-count">—</span>
+                <span class="stat-label">aperti</span>
+              </div>
+              <div class="stat">
+                <span class="stat-value" id="mapped-count">—</span>
+                <span class="stat-label">in mappa</span>
+              </div>
+              <div class="stat">
+                <span class="stat-value" id="total-count">—</span>
+                <span class="stat-label">totali</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="list-tools">
+            <label class="search-box">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4 4"/></svg>
+              <input id="search" type="search" placeholder="Cerca pista o impianto" autocomplete="off">
+            </label>
+            <div class="filter-row" role="group" aria-label="Filtra per stato">
+              <button class="filter-button is-active" type="button" data-status="tutti" aria-pressed="true">Tutti</button>
+              <button class="filter-button" type="button" data-status="Aperto" aria-pressed="false">Aperti</button>
+              <button class="filter-button" type="button" data-status="Chiuso" aria-pressed="false">Chiusi</button>
+            </div>
+          </div>
+
+          <div class="results-heading">
+            <h2>In montagna</h2>
+            <div class="results-meta">
+              <span id="result-count" aria-live="polite">—</span>
+              <span class="unmapped-count" id="unmapped-count"></span>
+            </div>
+          </div>
+          <div class="list-state" id="list-state" role="status">Caricamento piste e impianti…</div>
+          <div class="item-list" id="item-list"></div>
+          <div class="error-message" id="error-message" role="alert" hidden></div>
+        </aside>
+      </section>
+      <footer class="page-footer">Dati aggiornati ogni giorno · <a href="https://www.abetone-cutigliano.it/impianti-skipass/" target="_blank" rel="noreferrer">Fonte ufficiale</a></footer>
+    </main>
+  </body>
+</html>

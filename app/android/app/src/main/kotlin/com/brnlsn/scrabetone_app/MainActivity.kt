@@ -1,5 +1,0 @@
-package com.brnlsn.scrabetone_app
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity : FlutterActivity()

@@ -85,11 +85,12 @@ def main():
     with open(CATALOGO_JSON, "r", encoding="utf-8") as f:
         catalogo = json.load(f)
     
-    cat_dict = {c["nome_sito"]: c["id"] for c in catalogo}
+    # The source page has names and types, not IDs; resolve them once at ingestion.
+    cat_dict = {(c["nome_sito"], c["tipo"]): c["id"] for c in catalogo}
 
     non_trovati = []
     for el in elementi:
-        el_id = cat_dict.get(el["nome"])
+        el_id = cat_dict.get((el["nome"], el["tipo"]))
         if el_id:
             el["id"] = el_id
         else:

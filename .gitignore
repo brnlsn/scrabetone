@@ -13,3 +13,7 @@ output/
 osm_cache.json
 abetone.qgz*.pbf
 osm_cache.json
+
+# Note e checklist di lavoro locali
+/PROJECT-STATUS.md
+/QGIS-TASK.md

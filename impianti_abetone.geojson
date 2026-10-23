@@ -1,36 +1,1683 @@
 {
-"type": "FeatureCollection",
-"name": "impianti_abetone",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "full_id": "w43860279", "osm_id": "43860279", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "23", "oneway": "no", "name": "Val di Luce - Monte Gomito", "aerialway:occupancy": "4", "aerialway:heating": "no", "aerialway:duration": "8", "aerialway:capacity": "2000", "aerialway:bubble": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6311791, 44.1283211 ], [ 10.632061, 44.128259 ], [ 10.6328879, 44.1282008 ], [ 10.6342907, 44.128102 ], [ 10.6353787, 44.1280254 ], [ 10.6365755, 44.1279411 ], [ 10.6375746, 44.1278707 ], [ 10.6385618, 44.1278012 ], [ 10.6398001, 44.127714 ], [ 10.6411825, 44.1276167 ], [ 10.6418278, 44.1275712 ], [ 10.642833, 44.1275004 ], [ 10.6429117, 44.1274949 ], [ 10.642997, 44.1274889 ], [ 10.6432681, 44.1274698 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w43860280", "osm_id": "43860280", "osm_type": "way", "aerialway": "gondola", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "18", "oneway": "no", "name": "Casa Cantoniera - Monte Gomito", "aerialway:occupancy": "8", "aerialway:heating": "no", "aerialway:duration": "8", "aerialway:capacity": "3000", "aerialway:bubble": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6566958, 44.1435363 ], [ 10.6560049, 44.1426733 ], [ 10.6553598, 44.1419031 ], [ 10.6546834, 44.1410956 ], [ 10.6537567, 44.1399893 ], [ 10.6524207, 44.1383942 ], [ 10.6512498, 44.1369963 ], [ 10.650343, 44.1359137 ], [ 10.6494449, 44.1348414 ], [ 10.6490652, 44.134388 ], [ 10.6480981, 44.1332334 ], [ 10.6472267, 44.1321929 ], [ 10.646042, 44.1307811 ], [ 10.6450196, 44.1295468 ], [ 10.6445841, 44.1290375 ], [ 10.644004, 44.1282849 ], [ 10.643965, 44.1282364 ], [ 10.6439228, 44.128184 ], [ 10.6438708, 44.1281195 ], [ 10.6436372, 44.1278294 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w43860283", "osm_id": "43860283", "osm_type": "way", "aerialway": "platter", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": "16", "ref": null, "oneway": "yes", "name": "Monte Gomito", "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": "7", "aerialway:capacity": "720", "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6558794, 44.1315548 ], [ 10.6553642, 44.1311636 ], [ 10.6550996, 44.1309627 ], [ 10.6546321, 44.1306079 ], [ 10.6538444, 44.1300099 ], [ 10.6532895, 44.1295887 ], [ 10.6530569, 44.1294121 ], [ 10.652595, 44.1290615 ], [ 10.6519589, 44.1285786 ], [ 10.6516999, 44.1283819 ], [ 10.6507859, 44.1276881 ], [ 10.6501411, 44.1271986 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w43860285", "osm_id": "43860285", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "10", "oneway": "no", "name": "Abetone - Selletta (Buca della Terra)", "aerialway:occupancy": "2", "aerialway:heating": "no", "aerialway:duration": "13", "aerialway:capacity": "600", "aerialway:bubble": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6657916, 44.1430356 ], [ 10.6641579, 44.1386974 ], [ 10.66349, 44.1369238 ], [ 10.6626177, 44.1346073 ], [ 10.6623005, 44.1337649 ], [ 10.6620161, 44.1330095 ], [ 10.6618659, 44.1326107 ], [ 10.6616953, 44.1321575 ], [ 10.6614045, 44.1313855 ], [ 10.6613521, 44.1312461 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w43860286", "osm_id": "43860286", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "5", "oneway": "no", "name": "Le Regine - Selletta", "aerialway:occupancy": "4", "aerialway:heating": null, "aerialway:duration": "7", "aerialway:capacity": "2200", "aerialway:bubble": "yes" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.683978, 44.1324929 ], [ 10.6831241, 44.1324491 ], [ 10.6818552, 44.1323841 ], [ 10.6805914, 44.1323193 ], [ 10.6789017, 44.1322327 ], [ 10.6776642, 44.1321693 ], [ 10.6765538, 44.1321124 ], [ 10.6757631, 44.1320719 ], [ 10.6740763, 44.1319855 ], [ 10.6727985, 44.13192 ], [ 10.670917, 44.1318235 ], [ 10.6696043, 44.1317563 ], [ 10.6683796, 44.1316935 ], [ 10.6670996, 44.1316279 ], [ 10.6660351, 44.1315734 ], [ 10.6646209, 44.1315009 ], [ 10.6634057, 44.1314386 ], [ 10.6621279, 44.1313731 ], [ 10.6616748, 44.1313499 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w43860288", "osm_id": "43860288", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "14", "oneway": "no", "name": "Villa Imperatori - Selletta", "aerialway:occupancy": "2", "aerialway:heating": "no", "aerialway:duration": "9", "aerialway:capacity": "1200", "aerialway:bubble": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6611682, 44.1416296 ], [ 10.66106, 44.1402978 ], [ 10.6609312, 44.1387124 ], [ 10.6609193, 44.1385659 ], [ 10.6608968, 44.1382891 ], [ 10.6607575, 44.1365743 ], [ 10.660689, 44.1357312 ], [ 10.6606091, 44.1347477 ], [ 10.6605212, 44.1336654 ], [ 10.6604289, 44.1325293 ], [ 10.6604093, 44.1322873 ], [ 10.6603359, 44.1313842 ], [ 10.660321, 44.1312006 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w45319759", "osm_id": "45319759", "osm_type": "way", "aerialway": "cable_car", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": "Cutigliano-Doganaccia", "aerialway:occupancy": "45", "aerialway:heating": null, "aerialway:duration": "7", "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7580385, 44.0996402 ], [ 10.76082, 44.1027982 ], [ 10.7675001, 44.110863 ], [ 10.7689116, 44.1125357 ], [ 10.7726334, 44.1168385 ], [ 10.7765276, 44.1214659 ], [ 10.7768428, 44.1218405 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w45323018", "osm_id": "45323018", "osm_type": "way", "aerialway": "razed", "aerialway:station": null, "construction": null, "razed": "cable_car", "aerialway:ref": null, "ref": null, "oneway": null, "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7770269, 44.1218926 ], [ 10.7798457, 44.1264235 ], [ 10.7818163, 44.1295907 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w45323019", "osm_id": "45323019", "osm_type": "way", "aerialway": "platter", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": "Faggio di Maria", "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7720389, 44.1239935 ], [ 10.7722121, 44.1240927 ], [ 10.7761184, 44.1263298 ], [ 10.7796731, 44.1283655 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w45438363", "osm_id": "45438363", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "24", "oneway": "no", "name": "Passo d'Annibale", "aerialway:occupancy": "3", "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6304586, 44.1285416 ], [ 10.6301326, 44.1280905 ], [ 10.6295622, 44.1273012 ], [ 10.6290764, 44.1266288 ], [ 10.628743, 44.1261675 ], [ 10.6286002, 44.1259698 ], [ 10.6281748, 44.1253812 ], [ 10.6275094, 44.1244603 ], [ 10.6274682, 44.1244034 ], [ 10.6274072, 44.1243188 ], [ 10.62736, 44.1242536 ], [ 10.627186, 44.1240128 ], [ 10.6265493, 44.1231316 ], [ 10.6265002, 44.1230637 ], [ 10.6258095, 44.1221078 ], [ 10.6249608, 44.1209332 ], [ 10.6249123, 44.1208661 ], [ 10.6248093, 44.1207236 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w45438364", "osm_id": "45438364", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "22", "oneway": "no", "name": "Tre Potenze", "aerialway:occupancy": "4", "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.630531, 44.1283924 ], [ 10.6304504, 44.1276699 ], [ 10.6303369, 44.1266509 ], [ 10.6302642, 44.1259988 ], [ 10.6301126, 44.1246385 ], [ 10.630011, 44.1237273 ], [ 10.6299943, 44.1235769 ], [ 10.629899, 44.122722 ], [ 10.62984, 44.1221922 ], [ 10.6297279, 44.121187 ], [ 10.6296647, 44.1206198 ], [ 10.629617, 44.1201918 ], [ 10.6295813, 44.1198712 ], [ 10.6294717, 44.1188874 ], [ 10.629374, 44.1180107 ], [ 10.6293676, 44.1179537 ], [ 10.6293468, 44.1177667 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w45438806", "osm_id": "45438806", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": "12", "ref": null, "oneway": null, "name": "Campo Tennis", "aerialway:occupancy": "3", "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6676555, 44.1452048 ], [ 10.6675803, 44.1451233 ], [ 10.6673388, 44.1448612 ], [ 10.667041, 44.1445381 ], [ 10.666467, 44.1439152 ], [ 10.6663482, 44.1437853 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w45438807", "osm_id": "45438807", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": "11", "ref": null, "oneway": null, "name": "Campo Scuola Abetone", "aerialway:occupancy": "2", "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6673915, 44.1453088 ], [ 10.6673221, 44.1452563 ], [ 10.6670065, 44.1450175 ], [ 10.6666077, 44.1447158 ], [ 10.6662245, 44.1444259 ], [ 10.6661191, 44.1443462 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w45438808", "osm_id": "45438808", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "20", "oneway": "no", "name": "Ca' del Cucco - Pulicchio", "aerialway:occupancy": "4", "aerialway:heating": "no", "aerialway:duration": "7", "aerialway:capacity": "2400", "aerialway:bubble": "yes" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6494985, 44.153272 ], [ 10.6493805, 44.1531229 ], [ 10.6490609, 44.1527192 ], [ 10.6486672, 44.1522218 ], [ 10.6478536, 44.151194 ], [ 10.6471023, 44.1502449 ], [ 10.6464601, 44.1494335 ], [ 10.6458745, 44.1486937 ], [ 10.645133, 44.1477568 ], [ 10.6445807, 44.1470591 ], [ 10.6440859, 44.1464339 ], [ 10.64367, 44.1459084 ], [ 10.6429557, 44.145006 ], [ 10.6421047, 44.1439308 ], [ 10.6413949, 44.143034 ], [ 10.6407611, 44.1422331 ], [ 10.639956, 44.1412159 ], [ 10.6389783, 44.1399804 ], [ 10.638946, 44.1399396 ], [ 10.6387526, 44.1396953 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w167617091", "osm_id": "167617091", "osm_type": "way", "aerialway": "magic_carpet", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": "Tappeto Campo Scuola", "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7746582, 44.1225563 ], [ 10.775136, 44.1226567 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w201453780", "osm_id": "201453780", "osm_type": "way", "aerialway": "platter", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "28", "oneway": null, "name": "Abetina", "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6306864, 44.1307392 ], [ 10.6332173, 44.1283557 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w201453781", "osm_id": "201453781", "osm_type": "way", "aerialway": "platter", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "27", "oneway": null, "name": "Jolly", "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6309146, 44.1332658 ], [ 10.6303879, 44.1315114 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w201453784", "osm_id": "201453784", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "26", "oneway": "no", "name": "Pian della Sprella", "aerialway:occupancy": "4", "aerialway:heating": "no", "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6310587, 44.1331617 ], [ 10.6312825, 44.1326184 ], [ 10.631579, 44.1318988 ], [ 10.6318819, 44.1311639 ], [ 10.632137, 44.1305447 ], [ 10.6323983, 44.1299104 ], [ 10.6324652, 44.129748 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w201455461", "osm_id": "201455461", "osm_type": "way", "aerialway": "platter", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "19", "oneway": null, "name": "Ronchicciolo - Zeno 3", "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6558183, 44.1430617 ], [ 10.6541268, 44.1418209 ], [ 10.6505636, 44.1392069 ], [ 10.6460611, 44.1359038 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w257332136", "osm_id": "257332136", "osm_type": "way", "aerialway": "magic_carpet", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": "13", "oneway": null, "name": "Campo Scuola Ovovia", "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6560168, 44.1439553 ], [ 10.6545385, 44.1441239 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w257495193", "osm_id": "257495193", "osm_type": "way", "aerialway": "magic_carpet", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": "9", "ref": null, "oneway": null, "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6669176, 44.1454444 ], [ 10.6656636, 44.145063 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w260491544", "osm_id": "260491544", "osm_type": "way", "aerialway": "magic_carpet", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": "yes", "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6599567, 44.1310025 ], [ 10.6596718, 44.1308577 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w324900589", "osm_id": "324900589", "osm_type": "way", "aerialway": "chair_lift", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": "Campo Scuola", "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.768944, 44.122082 ], [ 10.7699428, 44.1222263 ], [ 10.7715902, 44.1224642 ], [ 10.7738239, 44.1227868 ], [ 10.7752459, 44.1229922 ], [ 10.7756806, 44.123055 ], [ 10.7764516, 44.1231664 ], [ 10.7770633, 44.1232547 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w842653645", "osm_id": "842653645", "osm_type": "way", "aerialway": "abandoned", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6876569, 44.1165037 ], [ 10.6693347, 44.1102151 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w842678868", "osm_id": "842678868", "osm_type": "way", "aerialway": "abandoned", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6689409, 44.1106736 ], [ 10.6671825, 44.1088089 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w1256100335", "osm_id": "1256100335", "osm_type": "way", "aerialway": "construction", "aerialway:station": null, "construction": "cable_car", "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.7769869, 44.1216187 ], [ 10.8014621, 44.1216148 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w1262831685", "osm_id": "1262831685", "osm_type": "way", "aerialway": "pylon", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.779877, 44.1264344 ], [ 10.7798859, 44.1264045 ], [ 10.7800683, 44.1264344 ], [ 10.7800733, 44.1264264 ], [ 10.7801156, 44.126428 ], [ 10.7801011, 44.1264675 ], [ 10.7800638, 44.1264671 ], [ 10.7800599, 44.126454 ], [ 10.779877, 44.1264344 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w1416291509", "osm_id": "1416291509", "osm_type": "way", "aerialway": "abandoned", "aerialway:station": null, "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6695877, 44.1072634 ], [ 10.6721613, 44.1100392 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w1538410057", "osm_id": "1538410057", "osm_type": "way", "aerialway": "station", "aerialway:station": "bottom", "construction": null, "razed": null, "aerialway:ref": null, "ref": null, "oneway": null, "name": null, "aerialway:occupancy": null, "aerialway:heating": null, "aerialway:duration": null, "aerialway:capacity": null, "aerialway:bubble": null }, "geometry": { "type": "LineString", "coordinates": [ [ 10.6567512, 44.143546 ], [ 10.6567406, 44.1435688 ], [ 10.6567061, 44.1435815 ], [ 10.6566698, 44.1435733 ], [ 10.6565541, 44.1434145 ], [ 10.656634, 44.143384 ], [ 10.6567512, 44.143546 ] ] } }
-]
+  "type": "FeatureCollection",
+  "name": "impianti_abetone",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w43860279",
+        "osm_id": "43860279",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "23",
+        "oneway": "no",
+        "name": "Val di Luce - Monte Gomito",
+        "aerialway:occupancy": "4",
+        "aerialway:heating": "no",
+        "aerialway:duration": "8",
+        "aerialway:capacity": "2000",
+        "aerialway:bubble": "no",
+        "catalog_id": "mp_imp_23"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6311791,
+            44.1283211
+          ],
+          [
+            10.632061,
+            44.128259
+          ],
+          [
+            10.6328879,
+            44.1282008
+          ],
+          [
+            10.6342907,
+            44.128102
+          ],
+          [
+            10.6353787,
+            44.1280254
+          ],
+          [
+            10.6365755,
+            44.1279411
+          ],
+          [
+            10.6375746,
+            44.1278707
+          ],
+          [
+            10.6385618,
+            44.1278012
+          ],
+          [
+            10.6398001,
+            44.127714
+          ],
+          [
+            10.6411825,
+            44.1276167
+          ],
+          [
+            10.6418278,
+            44.1275712
+          ],
+          [
+            10.642833,
+            44.1275004
+          ],
+          [
+            10.6429117,
+            44.1274949
+          ],
+          [
+            10.642997,
+            44.1274889
+          ],
+          [
+            10.6432681,
+            44.1274698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w43860280",
+        "osm_id": "43860280",
+        "osm_type": "way",
+        "aerialway": "gondola",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "18",
+        "oneway": "no",
+        "name": "Casa Cantoniera - Monte Gomito",
+        "aerialway:occupancy": "8",
+        "aerialway:heating": "no",
+        "aerialway:duration": "8",
+        "aerialway:capacity": "3000",
+        "aerialway:bubble": "no",
+        "catalog_id": "mp_imp_18"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6566958,
+            44.1435363
+          ],
+          [
+            10.6560049,
+            44.1426733
+          ],
+          [
+            10.6553598,
+            44.1419031
+          ],
+          [
+            10.6546834,
+            44.1410956
+          ],
+          [
+            10.6537567,
+            44.1399893
+          ],
+          [
+            10.6524207,
+            44.1383942
+          ],
+          [
+            10.6512498,
+            44.1369963
+          ],
+          [
+            10.650343,
+            44.1359137
+          ],
+          [
+            10.6494449,
+            44.1348414
+          ],
+          [
+            10.6490652,
+            44.134388
+          ],
+          [
+            10.6480981,
+            44.1332334
+          ],
+          [
+            10.6472267,
+            44.1321929
+          ],
+          [
+            10.646042,
+            44.1307811
+          ],
+          [
+            10.6450196,
+            44.1295468
+          ],
+          [
+            10.6445841,
+            44.1290375
+          ],
+          [
+            10.644004,
+            44.1282849
+          ],
+          [
+            10.643965,
+            44.1282364
+          ],
+          [
+            10.6439228,
+            44.128184
+          ],
+          [
+            10.6438708,
+            44.1281195
+          ],
+          [
+            10.6436372,
+            44.1278294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w43860283",
+        "osm_id": "43860283",
+        "osm_type": "way",
+        "aerialway": "platter",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": "16",
+        "ref": null,
+        "oneway": "yes",
+        "name": "Monte Gomito",
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": "7",
+        "aerialway:capacity": "720",
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_16"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6558794,
+            44.1315548
+          ],
+          [
+            10.6553642,
+            44.1311636
+          ],
+          [
+            10.6550996,
+            44.1309627
+          ],
+          [
+            10.6546321,
+            44.1306079
+          ],
+          [
+            10.6538444,
+            44.1300099
+          ],
+          [
+            10.6532895,
+            44.1295887
+          ],
+          [
+            10.6530569,
+            44.1294121
+          ],
+          [
+            10.652595,
+            44.1290615
+          ],
+          [
+            10.6519589,
+            44.1285786
+          ],
+          [
+            10.6516999,
+            44.1283819
+          ],
+          [
+            10.6507859,
+            44.1276881
+          ],
+          [
+            10.6501411,
+            44.1271986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w43860285",
+        "osm_id": "43860285",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "10",
+        "oneway": "no",
+        "name": "Abetone - Selletta (Buca della Terra)",
+        "aerialway:occupancy": "2",
+        "aerialway:heating": "no",
+        "aerialway:duration": "13",
+        "aerialway:capacity": "600",
+        "aerialway:bubble": "no",
+        "catalog_id": "mp_imp_10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6657916,
+            44.1430356
+          ],
+          [
+            10.6641579,
+            44.1386974
+          ],
+          [
+            10.66349,
+            44.1369238
+          ],
+          [
+            10.6626177,
+            44.1346073
+          ],
+          [
+            10.6623005,
+            44.1337649
+          ],
+          [
+            10.6620161,
+            44.1330095
+          ],
+          [
+            10.6618659,
+            44.1326107
+          ],
+          [
+            10.6616953,
+            44.1321575
+          ],
+          [
+            10.6614045,
+            44.1313855
+          ],
+          [
+            10.6613521,
+            44.1312461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w43860286",
+        "osm_id": "43860286",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "5",
+        "oneway": "no",
+        "name": "Le Regine - Selletta",
+        "aerialway:occupancy": "4",
+        "aerialway:heating": null,
+        "aerialway:duration": "7",
+        "aerialway:capacity": "2200",
+        "aerialway:bubble": "yes",
+        "catalog_id": "mp_imp_05"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.683978,
+            44.1324929
+          ],
+          [
+            10.6831241,
+            44.1324491
+          ],
+          [
+            10.6818552,
+            44.1323841
+          ],
+          [
+            10.6805914,
+            44.1323193
+          ],
+          [
+            10.6789017,
+            44.1322327
+          ],
+          [
+            10.6776642,
+            44.1321693
+          ],
+          [
+            10.6765538,
+            44.1321124
+          ],
+          [
+            10.6757631,
+            44.1320719
+          ],
+          [
+            10.6740763,
+            44.1319855
+          ],
+          [
+            10.6727985,
+            44.13192
+          ],
+          [
+            10.670917,
+            44.1318235
+          ],
+          [
+            10.6696043,
+            44.1317563
+          ],
+          [
+            10.6683796,
+            44.1316935
+          ],
+          [
+            10.6670996,
+            44.1316279
+          ],
+          [
+            10.6660351,
+            44.1315734
+          ],
+          [
+            10.6646209,
+            44.1315009
+          ],
+          [
+            10.6634057,
+            44.1314386
+          ],
+          [
+            10.6621279,
+            44.1313731
+          ],
+          [
+            10.6616748,
+            44.1313499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w43860288",
+        "osm_id": "43860288",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "14",
+        "oneway": "no",
+        "name": "Villa Imperatori - Selletta",
+        "aerialway:occupancy": "2",
+        "aerialway:heating": "no",
+        "aerialway:duration": "9",
+        "aerialway:capacity": "1200",
+        "aerialway:bubble": "no",
+        "catalog_id": "mp_imp_14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6611682,
+            44.1416296
+          ],
+          [
+            10.66106,
+            44.1402978
+          ],
+          [
+            10.6609312,
+            44.1387124
+          ],
+          [
+            10.6609193,
+            44.1385659
+          ],
+          [
+            10.6608968,
+            44.1382891
+          ],
+          [
+            10.6607575,
+            44.1365743
+          ],
+          [
+            10.660689,
+            44.1357312
+          ],
+          [
+            10.6606091,
+            44.1347477
+          ],
+          [
+            10.6605212,
+            44.1336654
+          ],
+          [
+            10.6604289,
+            44.1325293
+          ],
+          [
+            10.6604093,
+            44.1322873
+          ],
+          [
+            10.6603359,
+            44.1313842
+          ],
+          [
+            10.660321,
+            44.1312006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w45319759",
+        "osm_id": "45319759",
+        "osm_type": "way",
+        "aerialway": "cable_car",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": "Cutigliano-Doganaccia",
+        "aerialway:occupancy": "45",
+        "aerialway:heating": null,
+        "aerialway:duration": "7",
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7580385,
+            44.0996402
+          ],
+          [
+            10.76082,
+            44.1027982
+          ],
+          [
+            10.7675001,
+            44.110863
+          ],
+          [
+            10.7689116,
+            44.1125357
+          ],
+          [
+            10.7726334,
+            44.1168385
+          ],
+          [
+            10.7765276,
+            44.1214659
+          ],
+          [
+            10.7768428,
+            44.1218405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w45323018",
+        "osm_id": "45323018",
+        "osm_type": "way",
+        "aerialway": "razed",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": "cable_car",
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7770269,
+            44.1218926
+          ],
+          [
+            10.7798457,
+            44.1264235
+          ],
+          [
+            10.7818163,
+            44.1295907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w45323019",
+        "osm_id": "45323019",
+        "osm_type": "way",
+        "aerialway": "platter",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": "Faggio di Maria",
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7720389,
+            44.1239935
+          ],
+          [
+            10.7722121,
+            44.1240927
+          ],
+          [
+            10.7761184,
+            44.1263298
+          ],
+          [
+            10.7796731,
+            44.1283655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w45438363",
+        "osm_id": "45438363",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "24",
+        "oneway": "no",
+        "name": "Passo d'Annibale",
+        "aerialway:occupancy": "3",
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_24"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6304586,
+            44.1285416
+          ],
+          [
+            10.6301326,
+            44.1280905
+          ],
+          [
+            10.6295622,
+            44.1273012
+          ],
+          [
+            10.6290764,
+            44.1266288
+          ],
+          [
+            10.628743,
+            44.1261675
+          ],
+          [
+            10.6286002,
+            44.1259698
+          ],
+          [
+            10.6281748,
+            44.1253812
+          ],
+          [
+            10.6275094,
+            44.1244603
+          ],
+          [
+            10.6274682,
+            44.1244034
+          ],
+          [
+            10.6274072,
+            44.1243188
+          ],
+          [
+            10.62736,
+            44.1242536
+          ],
+          [
+            10.627186,
+            44.1240128
+          ],
+          [
+            10.6265493,
+            44.1231316
+          ],
+          [
+            10.6265002,
+            44.1230637
+          ],
+          [
+            10.6258095,
+            44.1221078
+          ],
+          [
+            10.6249608,
+            44.1209332
+          ],
+          [
+            10.6249123,
+            44.1208661
+          ],
+          [
+            10.6248093,
+            44.1207236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w45438364",
+        "osm_id": "45438364",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "22",
+        "oneway": "no",
+        "name": "Tre Potenze",
+        "aerialway:occupancy": "4",
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_22"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.630531,
+            44.1283924
+          ],
+          [
+            10.6304504,
+            44.1276699
+          ],
+          [
+            10.6303369,
+            44.1266509
+          ],
+          [
+            10.6302642,
+            44.1259988
+          ],
+          [
+            10.6301126,
+            44.1246385
+          ],
+          [
+            10.630011,
+            44.1237273
+          ],
+          [
+            10.6299943,
+            44.1235769
+          ],
+          [
+            10.629899,
+            44.122722
+          ],
+          [
+            10.62984,
+            44.1221922
+          ],
+          [
+            10.6297279,
+            44.121187
+          ],
+          [
+            10.6296647,
+            44.1206198
+          ],
+          [
+            10.629617,
+            44.1201918
+          ],
+          [
+            10.6295813,
+            44.1198712
+          ],
+          [
+            10.6294717,
+            44.1188874
+          ],
+          [
+            10.629374,
+            44.1180107
+          ],
+          [
+            10.6293676,
+            44.1179537
+          ],
+          [
+            10.6293468,
+            44.1177667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w45438806",
+        "osm_id": "45438806",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": "12",
+        "ref": null,
+        "oneway": null,
+        "name": "Campo Tennis",
+        "aerialway:occupancy": "3",
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_12"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6676555,
+            44.1452048
+          ],
+          [
+            10.6675803,
+            44.1451233
+          ],
+          [
+            10.6673388,
+            44.1448612
+          ],
+          [
+            10.667041,
+            44.1445381
+          ],
+          [
+            10.666467,
+            44.1439152
+          ],
+          [
+            10.6663482,
+            44.1437853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w45438807",
+        "osm_id": "45438807",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": "11",
+        "ref": null,
+        "oneway": null,
+        "name": "Campo Scuola Abetone",
+        "aerialway:occupancy": "2",
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_11"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6673915,
+            44.1453088
+          ],
+          [
+            10.6673221,
+            44.1452563
+          ],
+          [
+            10.6670065,
+            44.1450175
+          ],
+          [
+            10.6666077,
+            44.1447158
+          ],
+          [
+            10.6662245,
+            44.1444259
+          ],
+          [
+            10.6661191,
+            44.1443462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w45438808",
+        "osm_id": "45438808",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "20",
+        "oneway": "no",
+        "name": "Ca' del Cucco - Pulicchio",
+        "aerialway:occupancy": "4",
+        "aerialway:heating": "no",
+        "aerialway:duration": "7",
+        "aerialway:capacity": "2400",
+        "aerialway:bubble": "yes",
+        "catalog_id": "mp_imp_20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6494985,
+            44.153272
+          ],
+          [
+            10.6493805,
+            44.1531229
+          ],
+          [
+            10.6490609,
+            44.1527192
+          ],
+          [
+            10.6486672,
+            44.1522218
+          ],
+          [
+            10.6478536,
+            44.151194
+          ],
+          [
+            10.6471023,
+            44.1502449
+          ],
+          [
+            10.6464601,
+            44.1494335
+          ],
+          [
+            10.6458745,
+            44.1486937
+          ],
+          [
+            10.645133,
+            44.1477568
+          ],
+          [
+            10.6445807,
+            44.1470591
+          ],
+          [
+            10.6440859,
+            44.1464339
+          ],
+          [
+            10.64367,
+            44.1459084
+          ],
+          [
+            10.6429557,
+            44.145006
+          ],
+          [
+            10.6421047,
+            44.1439308
+          ],
+          [
+            10.6413949,
+            44.143034
+          ],
+          [
+            10.6407611,
+            44.1422331
+          ],
+          [
+            10.639956,
+            44.1412159
+          ],
+          [
+            10.6389783,
+            44.1399804
+          ],
+          [
+            10.638946,
+            44.1399396
+          ],
+          [
+            10.6387526,
+            44.1396953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w167617091",
+        "osm_id": "167617091",
+        "osm_type": "way",
+        "aerialway": "magic_carpet",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": "Tappeto Campo Scuola",
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7746582,
+            44.1225563
+          ],
+          [
+            10.775136,
+            44.1226567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w201453780",
+        "osm_id": "201453780",
+        "osm_type": "way",
+        "aerialway": "platter",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "28",
+        "oneway": null,
+        "name": "Abetina",
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6306864,
+            44.1307392
+          ],
+          [
+            10.6332173,
+            44.1283557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w201453781",
+        "osm_id": "201453781",
+        "osm_type": "way",
+        "aerialway": "platter",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "27",
+        "oneway": null,
+        "name": "Jolly",
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_27"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6309146,
+            44.1332658
+          ],
+          [
+            10.6303879,
+            44.1315114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w201453784",
+        "osm_id": "201453784",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "26",
+        "oneway": "no",
+        "name": "Pian della Sprella",
+        "aerialway:occupancy": "4",
+        "aerialway:heating": "no",
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": "no",
+        "catalog_id": "mp_imp_26"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6310587,
+            44.1331617
+          ],
+          [
+            10.6312825,
+            44.1326184
+          ],
+          [
+            10.631579,
+            44.1318988
+          ],
+          [
+            10.6318819,
+            44.1311639
+          ],
+          [
+            10.632137,
+            44.1305447
+          ],
+          [
+            10.6323983,
+            44.1299104
+          ],
+          [
+            10.6324652,
+            44.129748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w201455461",
+        "osm_id": "201455461",
+        "osm_type": "way",
+        "aerialway": "platter",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "19",
+        "oneway": null,
+        "name": "Ronchicciolo - Zeno 3",
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_19"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6558183,
+            44.1430617
+          ],
+          [
+            10.6541268,
+            44.1418209
+          ],
+          [
+            10.6505636,
+            44.1392069
+          ],
+          [
+            10.6460611,
+            44.1359038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w257332136",
+        "osm_id": "257332136",
+        "osm_type": "way",
+        "aerialway": "magic_carpet",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": "13",
+        "oneway": null,
+        "name": "Campo Scuola Ovovia",
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_13"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6560168,
+            44.1439553
+          ],
+          [
+            10.6545385,
+            44.1441239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w257495193",
+        "osm_id": "257495193",
+        "osm_type": "way",
+        "aerialway": "magic_carpet",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": "9",
+        "ref": null,
+        "oneway": null,
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null,
+        "catalog_id": "mp_imp_09"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6669176,
+            44.1454444
+          ],
+          [
+            10.6656636,
+            44.145063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w260491544",
+        "osm_id": "260491544",
+        "osm_type": "way",
+        "aerialway": "magic_carpet",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": "yes",
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6599567,
+            44.1310025
+          ],
+          [
+            10.6596718,
+            44.1308577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w324900589",
+        "osm_id": "324900589",
+        "osm_type": "way",
+        "aerialway": "chair_lift",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": "Campo Scuola",
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.768944,
+            44.122082
+          ],
+          [
+            10.7699428,
+            44.1222263
+          ],
+          [
+            10.7715902,
+            44.1224642
+          ],
+          [
+            10.7738239,
+            44.1227868
+          ],
+          [
+            10.7752459,
+            44.1229922
+          ],
+          [
+            10.7756806,
+            44.123055
+          ],
+          [
+            10.7764516,
+            44.1231664
+          ],
+          [
+            10.7770633,
+            44.1232547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w842653645",
+        "osm_id": "842653645",
+        "osm_type": "way",
+        "aerialway": "abandoned",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6876569,
+            44.1165037
+          ],
+          [
+            10.6693347,
+            44.1102151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w842678868",
+        "osm_id": "842678868",
+        "osm_type": "way",
+        "aerialway": "abandoned",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6689409,
+            44.1106736
+          ],
+          [
+            10.6671825,
+            44.1088089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w1256100335",
+        "osm_id": "1256100335",
+        "osm_type": "way",
+        "aerialway": "construction",
+        "aerialway:station": null,
+        "construction": "cable_car",
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7769869,
+            44.1216187
+          ],
+          [
+            10.8014621,
+            44.1216148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w1262831685",
+        "osm_id": "1262831685",
+        "osm_type": "way",
+        "aerialway": "pylon",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.779877,
+            44.1264344
+          ],
+          [
+            10.7798859,
+            44.1264045
+          ],
+          [
+            10.7800683,
+            44.1264344
+          ],
+          [
+            10.7800733,
+            44.1264264
+          ],
+          [
+            10.7801156,
+            44.126428
+          ],
+          [
+            10.7801011,
+            44.1264675
+          ],
+          [
+            10.7800638,
+            44.1264671
+          ],
+          [
+            10.7800599,
+            44.126454
+          ],
+          [
+            10.779877,
+            44.1264344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w1416291509",
+        "osm_id": "1416291509",
+        "osm_type": "way",
+        "aerialway": "abandoned",
+        "aerialway:station": null,
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6695877,
+            44.1072634
+          ],
+          [
+            10.6721613,
+            44.1100392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "full_id": "w1538410057",
+        "osm_id": "1538410057",
+        "osm_type": "way",
+        "aerialway": "station",
+        "aerialway:station": "bottom",
+        "construction": null,
+        "razed": null,
+        "aerialway:ref": null,
+        "ref": null,
+        "oneway": null,
+        "name": null,
+        "aerialway:occupancy": null,
+        "aerialway:heating": null,
+        "aerialway:duration": null,
+        "aerialway:capacity": null,
+        "aerialway:bubble": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6567512,
+            44.143546
+          ],
+          [
+            10.6567406,
+            44.1435688
+          ],
+          [
+            10.6567061,
+            44.1435815
+          ],
+          [
+            10.6566698,
+            44.1435733
+          ],
+          [
+            10.6565541,
+            44.1434145
+          ],
+          [
+            10.656634,
+            44.143384
+          ],
+          [
+            10.6567512,
+            44.143546
+          ]
+        ]
+      }
+    }
+  ]
 }
